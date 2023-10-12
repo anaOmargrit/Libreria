@@ -1,0 +1,2 @@
+Ha ocurrido un error al eliminar el Género: The DELETE statement conflicted with the REFERENCE constraint "FK__libros__idGenero__3E52440B". The conflict occurred in database "IssdTP42023", table "dbo.libros", column 'idGenero'.
+The statement has been terminated.
